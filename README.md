@@ -1,2 +1,3 @@
 # test
-test repo
+test repository fo git for learning command
+
